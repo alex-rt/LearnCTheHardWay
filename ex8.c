@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(int argc, char *argv[]) 
 {    
-int areas[] = {100, 12, 13, 14, x};    
+int areas[] = {100, 12, 13, 14, 20};    
 char name[] = "Alex";    
 char full_name[] = 
 {    
@@ -38,7 +38,6 @@ return 0;
 	'W', 'e', 's', 't', '\0'    
 };*/
 //Try setting one element of areas to a character from name 
-//int areas[] = {100, 12, 13, 14, x}; 
 //Go search online for the different sizes used for integers on different CPUs.
 /*unsigned integers
 
